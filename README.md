@@ -2,6 +2,8 @@
 * This project is a basic Terraform setup for AWS, including VPC, subnets, security groups, and an EC2 instance.
 * For screenshots go to docs/images/
 
+![Infrastructure Diagram](diagram.png)
+
 ## Walkthrough
 
 1. Create VPC
